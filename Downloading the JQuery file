@@ -1,0 +1,4 @@
+Step 1- visit the url https://jquery.com/download/
+Step 2- Scroll as you find the link to download the compressed version of JQuery 3.5.1
+Step 3-Right click on the link and save the link to any drive of the PC (preferably,save the file to the htdocs folder of XAMPP)
+Step4-While implementing JQuery,refer the file,in the <script> tag
