@@ -12,6 +12,7 @@ From the name itself,it is understandable that the user needs to double click,ov
 In this example,when the user double clicks over the text,each line dissapears (one line dissapears,for each click)
 
 Initial Appeareance
+
 ![One](https://user-images.githubusercontent.com/77625109/121893745-f7421600-cd3b-11eb-8394-349e246a678f.png)
 
 After double clicking once
