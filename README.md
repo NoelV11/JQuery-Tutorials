@@ -5,7 +5,7 @@ This repository is dedicated towards discuessing JQuery concepts.It is a lite ve
 
 Generally, Web Programmers apply JQuery functionality by a file(jquery-3.5.1.min.js),stated in the script part of the document
 
-I will demonstrate the working of JsQuery_dblclick().html
+Here,I will demonstrate the working of JsQuery_dblclick().html
 
 From the name itself,it is understandable that the user needs to double click,over something to,implement a JQuery funnction.
 In this example,when the user double clicks over the text,each line dissapears (one line dissapears,for each click)
