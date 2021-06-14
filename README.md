@@ -1,10 +1,9 @@
 # JQuery-Tutorials
 This repository is dedicated towards discuessing JQuery concepts.It is a lite version of JavaScript, which offers more functionality in the form of Event Handling.We implement JQuery,using a js file(jquery-3.5.1.min.js),stated in the script part of the document 
 
-Functioality Provided:-
+## Functioality Provided:-
 We implement JQuery,using a js file(jquery-3.5.1.min.js),stated in the script part of the document 
 
-Functionality Provided:-
 
 I will demonstrate the working of JsQuery_dblclick().html
 
@@ -27,6 +26,17 @@ After the final double click
 
 Hop on to the repository to learn more tricks!
 
-Improvements:-
+
+->To run on your machine:-
+
+- Download the codes (.html) pages from this repository
+
+- Download and configure the XAMPP Server
+
+- Move the downloaded files to the 'htdocs' folder under C:\XAMPP
+
+- Click on the each to file to view it's practical demonstration
+
+## Improvements:-
 
 This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy
